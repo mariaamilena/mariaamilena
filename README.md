@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariaamilena
 - 👀 I’m interested in aprender linguagem de programacao  
 - 🌱 I’m currently learning  fazer programacoes na disciplina de pensamento computacional
--   I'm looking to collaborate on fazer todas as atividades
+-    I'm looking to collaborate on fazer todas as atividades
 - - 📫 How to reach me ...
 
 <!---
