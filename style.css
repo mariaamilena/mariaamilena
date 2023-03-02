@@ -1,2 +1,12 @@
-  header {background-color: blueviolet;}
-  .cabecalho-imagem{width: 50%;}
+ *{
+  margin: 0;
+  padding: 0;
+ }
+ .cabecalho {background-color: rgb(221, 0, 0);
+  display: flex;
+justify-content: space-around;}
+  .cabecalho-imagem{width: 10%;}
+  .cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+  }
