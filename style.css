@@ -76,10 +76,15 @@ h1
    }
    .estudante-todos{
       display: grid;
-      grid-template-columns: 25% 25% 25% 25%;
+      grid-template-columns: 30% 25% 25% 25%;
    }
 
+   footer{
+      background-color: black;
+      color: azure;
    }
 
    
-    
+
+   
+   
